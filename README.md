@@ -3,3 +3,4 @@
 
 ## 웹의 이해 및 HTML 기본 실습
   * HTML 기본 이해 실습
+  * push, pull, commit 연습하기
