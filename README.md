@@ -11,3 +11,5 @@
 - 03 a, img tag [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/html/03_html_link_img.html)
 - 04 div, span tag [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/html/04_html_div_span.html)
 - 05 summary [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/html/05_html_summary.html)
+- CSS 기본
+- 01 Photo album [link](https://jypark-code.github.io/LikeLion_13th_ML_Course/Photo_Album/10_image_gallery.html)
