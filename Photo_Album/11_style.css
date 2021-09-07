@@ -1,0 +1,91 @@
+:root {
+  --text-color: #f0f4f5;
+  --background-color: #0a1e36;
+  --accent-color: #e47911;
+}
+
+body {
+  margin: 0;
+  font-family: "Gothic A1", sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: var(--text-color);
+}
+
+a:link a:visited {
+  text-decoration: none;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: var(--background-color);
+  padding: 8px 12px;
+}
+
+.navbar__logo {
+  font-size: 24px;
+  color: var(--text-color);
+}
+
+.navbar__logo i {
+  color: var(--accent-color);
+}
+
+.navbar__icons {
+  list-style: none;
+  color: var(--text-color);
+  display: flex;
+  padding-left: 0;
+}
+
+.navbar__icons li {
+  padding: 8px 12px;
+}
+
+.navbar__toggleBtn {
+  display: none;
+  position: absolute;
+  right: 32px;
+  font-size: 24px;
+  color: var(--accent-color);
+}
+
+.jumbotron {
+  padding: 24px 24px;
+  background-image: url("alps.jpg");
+  height: 450px;
+}
+
+.jumbotron > h1 {
+  color: #505457;
+}
+
+.gallery {
+  padding: 5px;
+  margin: 8px 8px;
+  float: left;
+}
+
+.small_pics {
+  width: 450px;
+  height: auto;
+}
+
+.undersection {
+  top: 50%;
+  left: 50%;
+}
+
+.h1_desc {
+  text-align: center;
+}
+
+.img_control:hover {
+  opacity: 0.8;
+  transition-duration: 0.3s;
+  transition-delay: 0.1s;
+}
