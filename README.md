@@ -21,5 +21,5 @@
 - 웹 데이터 가져오기 + csv 파일 만들기 + csv 파일 병합 [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Stock_Data_Crawling/05_KOSPI_exercise.py)
 - - - 
 ### Web Crawling - 영화 댓글 가져오기
-- 영화 댓글 50 페이지 가져오기 - 샹치 [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Assignment_movie.py)
-- csv, excel 파일 추출 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/text_visualization.py)
+- 영화 댓글 50 페이지 가져오기 - 샹치 [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Web_visual/Assignment_movie.py)
+- csv, excel 파일 추출 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Web_visual/text_visualization.py)
