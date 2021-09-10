@@ -23,3 +23,6 @@
 ### Web Crawling - 영화 댓글 가져오기
 - 영화 댓글 50 페이지 가져오기 - 샹치 [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Web_visual/Assignment_movie.py)
 - csv, excel 파일 추출 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Web_visual/text_visualization.py)
+- - -
+### Web Crawling - Selenium 사용해서 아마존 댓글 가져오기
+- ChromeDriver를 이용한 웹 스크래핑 - [Link]((https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Selenium/03_amazon_practice.py)
