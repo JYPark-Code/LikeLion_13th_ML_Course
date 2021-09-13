@@ -26,3 +26,6 @@
 - - -
 ### Web Crawling - Selenium 사용해서 아마존 댓글 가져오기
 - ChromeDriver를 이용한 웹 스크래핑 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Selenium/03_amazon_practice.py)
+- - -
+### Web Crawling - Selenium 사용해서 네이버 데이터랩 순위 가져오기 (Xpath, time.sleep())
+- ChromeDriver를 이용한 웹 스크래핑 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Web_ranking/0913_03_naver_datalab.py )
