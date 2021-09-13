@@ -19,13 +19,10 @@
 - - -
 ### Web Crawling - 주식 정보 가져오기
 - 웹 데이터 가져오기 + csv 파일 만들기 + csv 파일 병합 [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Stock_Data_Crawling/05_KOSPI_exercise.py)
-- - - 
 ### Web Crawling - 영화 댓글 가져오기
 - 영화 댓글 50 페이지 가져오기 - 샹치 [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Web_visual/Assignment_movie.py)
 - csv, excel 파일 추출 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Web_visual/text_visualization.py)
-- - -
 ### Web Crawling - Selenium 사용해서 아마존 댓글 가져오기
 - ChromeDriver를 이용한 웹 스크래핑 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Selenium/03_amazon_practice.py)
-- - -
 ### Web Crawling - Selenium 사용해서 네이버 데이터랩 순위 가져오기 (Xpath, time.sleep())
 - ChromeDriver를 이용한 웹 스크래핑 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Web_ranking/0913_03_naver_datalab.py )
