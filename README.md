@@ -28,5 +28,5 @@
 - ChromeDriver를 이용한 웹 스크래핑 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Web_ranking/0913_03_naver_datalab.py )
 ### Web Crawling - 개인 프로젝트
 - 앱스토어 동향 파악하기 - 모바일인덱스 사이트 참고 [모바일인덱스_Top100](https://www.mobileindex.com/mi-chart/top-100/overall)
-- 데이터 스크랩하는 파일 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Web_ranking/0914_Pilot_project/pilot_project.py/)
-- 날짜 선택하는 파일 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/Web_ranking/0914_Pilot_project/date_picker.py )
+- 데이터 스크랩하는 파일 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0914_Pilot_project/pilot_project.py)
+- 날짜 선택하는 파일 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0914_Pilot_project/date_picker.py )
