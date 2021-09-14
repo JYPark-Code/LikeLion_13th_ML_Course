@@ -116,7 +116,6 @@ total_app_count = len(app_rows) - 1
 # print(len(app_rows))
 
 # 매출 데이터 추출
-print_both = input("")
 sales_rank = table_extract(total_app_count, True)
 
 
