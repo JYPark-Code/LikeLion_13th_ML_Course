@@ -141,7 +141,7 @@ time.sleep(5)
 # 위와 동일한 구조.
 usage_rank = table_extract(total_app_count, False)
 
-df = pd.DataFrame(data=usage_rank, columns=["앱명", "개발사", "구글스토어 순위", "애플스토어 순위", "원스토어 순위"])
+df = pd.DataFrame(data=usage_rank, columns=["앱명", "개발사", "상승률", "업종 대분류", "업종 소분류"])
 df.to_csv(f"{target_date}_앱스토어_사용자_수_순위_모바일인덱스.csv")
 df.to_excel(f"{target_date}_앱스토어_사용자_수_순위_모바일인덱스.xlsx")
 
