@@ -33,4 +33,5 @@
 - 날짜 선택하는 파일 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0914_Pilot_project/date_picker.py )
 - - -
 ## Kaggle - Matplotlib, seaborn을 이용한 시각화 연습
-### Titanic Practice - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0915_kaggle_titanic/titanic-practice.ipynb)
+### Titanic Practice 
+- Matplotlib, seaborn을 이용한 데이터 분석 및 시각화 연습 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0915_kaggle_titanic/titanic-practice.ipynb)
