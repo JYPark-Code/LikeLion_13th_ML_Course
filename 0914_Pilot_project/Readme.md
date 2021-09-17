@@ -23,5 +23,3 @@
   * 달력이 인풋을 클릭으로만 입력받고, selector가 Wrapper로 가려져 있어서 subtree-modification을 사용해서 Xpath를 가져왔다.
   * 크롤링의 시간이 오래 걸려서, 옳은 데이터 값을 판별할 때 데이터를 선택적으로 가져왔다.
 - - -
-추가할 부분:
-* DF, Pandas 활용하기.
