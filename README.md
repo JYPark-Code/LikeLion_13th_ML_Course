@@ -15,7 +15,7 @@
 ## CSS 기본
 - 01 Photo album + navbar upgrade [link](https://jypark-code.github.io/LikeLion_13th_ML_Course/Photo_Album/11_photo_album_assignment)
 - Web template 이용해서 페이지 만들기
-- (미완성) 01 Template project [Link](https://jypark-code.github.io/LikeLion_13th_ML_Course/Web_template/index.html)
+- (진행중) 01 Template project - 자기 소개 페이지 [Link](https://jypark-code.github.io/LikeLion_13th_ML_Course/Web_template/index.html)
 - - -
 ## Web Crawling
 ### 주식 정보 가져오기
