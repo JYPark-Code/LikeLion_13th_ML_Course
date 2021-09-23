@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS=false; L_NO_TOUCH=false; L_DISABLE_3D=false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+    <meta name="viewport" content="width=device-width,
+        initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <style>#map_71094ec903f64745817f78f9d4b8e14f {
+        position: relative;
+        width: 100.0%;
+        height: 100.0%;
+        left: 0.0%;
+        top: 0.0%;
+        }
+    </style>
+</head>
+<body>    
+    
+    <div class="folium-map" id="map_71094ec903f64745817f78f9d4b8e14f" ></div>
+</body>
+<script>    
+    
+    
+        var bounds = null;
+    
+
+    var map_71094ec903f64745817f78f9d4b8e14f = L.map(
+        'map_71094ec903f64745817f78f9d4b8e14f', {
+        center: [37.501490485455996, 127.02591085933129],
+        zoom: 16,
+        maxBounds: bounds,
+        layers: [],
+        worldCopyJump: false,
+        crs: L.CRS.EPSG3857,
+        zoomControl: true,
+        });
+
+
+    
+    var tile_layer_8f4cb481d2f44169bf3ca5e1718c8d0f = L.tileLayer(
+        'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        {
+        "attribution": null,
+        "detectRetina": false,
+        "maxNativeZoom": 18,
+        "maxZoom": 18,
+        "minZoom": 0,
+        "noWrap": false,
+        "opacity": 1,
+        "subdomains": "abc",
+        "tms": false
+}).addTo(map_71094ec903f64745817f78f9d4b8e14f);
+    
+        var marker_b85bf8ef72c64221842d6e7a44bd64d7 = L.marker(
+            [37.50468949745244, 127.0249741895365],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_71094ec903f64745817f78f9d4b8e14f);
+        
+    
+
+                var icon_649a92d356504a338922c22ccb258163 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'brown',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_b85bf8ef72c64221842d6e7a44bd64d7.setIcon(icon_649a92d356504a338922c22ccb258163);
+            
+    
+            var popup_073a8e8bc31a4d3a886082542e70da93 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_a9b85676ba0849e59c19f4ee255f779a = $(`<div id="html_a9b85676ba0849e59c19f4ee255f779a" style="width: 100.0%; height: 100.0%;">신논현역</div>`)[0];
+                popup_073a8e8bc31a4d3a886082542e70da93.setContent(html_a9b85676ba0849e59c19f4ee255f779a);
+            
+
+            marker_b85bf8ef72c64221842d6e7a44bd64d7.bindPopup(popup_073a8e8bc31a4d3a886082542e70da93)
+            ;
+
+            
+        
+    
+        var marker_40e18a363b29483ba1f8145803c7bb14 = L.marker(
+            [37.49868895406551, 127.02702936414481],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_71094ec903f64745817f78f9d4b8e14f);
+        
+    
+
+                var icon_f5925dea9d314134b3e2809723a6a730 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_40e18a363b29483ba1f8145803c7bb14.setIcon(icon_f5925dea9d314134b3e2809723a6a730);
+            
+    
+            var popup_180c56126b394ceeb3f5d8c167a68f9c = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_3c8a99ba444147eba347802a23bff17f = $(`<div id="html_3c8a99ba444147eba347802a23bff17f" style="width: 100.0%; height: 100.0%;">강남역 10번 출구</div>`)[0];
+                popup_180c56126b394ceeb3f5d8c167a68f9c.setContent(html_3c8a99ba444147eba347802a23bff17f);
+            
+
+            marker_40e18a363b29483ba1f8145803c7bb14.bindPopup(popup_180c56126b394ceeb3f5d8c167a68f9c)
+            ;
+
+            
+        
+    
+        var marker_1b71d741e3b5410eaa5fe89b16e7ddb9 = L.marker(
+            [37.502100787102975, 127.02602758862261],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_71094ec903f64745817f78f9d4b8e14f);
+        
+    
+
+                var icon_17cbcd4d27674c95873e555888c54ad8 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'brown',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_1b71d741e3b5410eaa5fe89b16e7ddb9.setIcon(icon_17cbcd4d27674c95873e555888c54ad8);
+            
+    
+            var popup_b249eac8bc314fe39967ac13e0be63e1 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_340c75967b224a198886e6c40a2df703 = $(`<div id="html_340c75967b224a198886e6c40a2df703" style="width: 100.0%; height: 100.0%;">커피빈 - 강남대로센터점</div>`)[0];
+                popup_b249eac8bc314fe39967ac13e0be63e1.setContent(html_340c75967b224a198886e6c40a2df703);
+            
+
+            marker_1b71d741e3b5410eaa5fe89b16e7ddb9.bindPopup(popup_b249eac8bc314fe39967ac13e0be63e1)
+            ;
+
+            
+        
+    
+        var marker_2cd6a5c2ef0b413aad068e32a3831f11 = L.marker(
+            [37.50386363400614, 127.02414502897703],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_71094ec903f64745817f78f9d4b8e14f);
+        
+    
+
+                var icon_57130cabf313442aa0db03ed105297ff = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_2cd6a5c2ef0b413aad068e32a3831f11.setIcon(icon_57130cabf313442aa0db03ed105297ff);
+            
+    
+            var popup_b06af6b4bcaa4dea82c4ded2b5c22cb9 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_c49435df9a964cc09702287fad4fdbbf = $(`<div id="html_c49435df9a964cc09702287fad4fdbbf" style="width: 100.0%; height: 100.0%;">교보문고 - 강남점</div>`)[0];
+                popup_b06af6b4bcaa4dea82c4ded2b5c22cb9.setContent(html_c49435df9a964cc09702287fad4fdbbf);
+            
+
+            marker_2cd6a5c2ef0b413aad068e32a3831f11.bindPopup(popup_b06af6b4bcaa4dea82c4ded2b5c22cb9)
+            ;
+
+            
+        
+    
+        var marker_6d404cd9b1774dc9aaf4c946ce88faec = L.marker(
+            [37.50006892290135, 127.02562863273305],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_71094ec903f64745817f78f9d4b8e14f);
+        
+    
+
+                var icon_80682b057b11427292068bff6c69d0b9 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'brown',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_6d404cd9b1774dc9aaf4c946ce88faec.setIcon(icon_80682b057b11427292068bff6c69d0b9);
+            
+    
+            var popup_4957b7b6a3394262af1e0e7c112e1717 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_ec5f9cab060545b78ea21b05a0f6246b = $(`<div id="html_ec5f9cab060545b78ea21b05a0f6246b" style="width: 100.0%; height: 100.0%;">스타벅스 - 강남2점</div>`)[0];
+                popup_4957b7b6a3394262af1e0e7c112e1717.setContent(html_ec5f9cab060545b78ea21b05a0f6246b);
+            
+
+            marker_6d404cd9b1774dc9aaf4c946ce88faec.bindPopup(popup_4957b7b6a3394262af1e0e7c112e1717)
+            ;
+
+            
+        
+</script>

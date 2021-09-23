@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS=false; L_NO_TOUCH=false; L_DISABLE_3D=false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+    <meta name="viewport" content="width=device-width,
+        initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <style>#map_c22c3f93236b4ccc9b47b4a923e134d4 {
+        position: relative;
+        width: 100.0%;
+        height: 100.0%;
+        left: 0.0%;
+        top: 0.0%;
+        }
+    </style>
+</head>
+<body>    
+    
+    <div class="folium-map" id="map_c22c3f93236b4ccc9b47b4a923e134d4" ></div>
+</body>
+<script>    
+    
+    
+        var bounds = null;
+    
+
+    var map_c22c3f93236b4ccc9b47b4a923e134d4 = L.map(
+        'map_c22c3f93236b4ccc9b47b4a923e134d4', {
+        center: [37.50240376721642, 127.04212508707661],
+        zoom: 14,
+        maxBounds: bounds,
+        layers: [],
+        worldCopyJump: false,
+        crs: L.CRS.EPSG3857,
+        zoomControl: true,
+        });
+
+
+    
+    var tile_layer_f3e9a8411e4d403089daef41055a418c = L.tileLayer(
+        'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+        {
+        "attribution": null,
+        "detectRetina": false,
+        "maxNativeZoom": 18,
+        "maxZoom": 18,
+        "minZoom": 0,
+        "noWrap": false,
+        "opacity": 1,
+        "subdomains": "abc",
+        "tms": false
+}).addTo(map_c22c3f93236b4ccc9b47b4a923e134d4);
+    
+        var marker_905ee47efd4348d59a0e5db4d1e675c7 = L.marker(
+            [37.51375251760752, 127.06112501974802],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_c22c3f93236b4ccc9b47b4a923e134d4);
+        
+    
+
+                var icon_f61ef7c2535d483fba55da9dfa8a81d6 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'red',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_905ee47efd4348d59a0e5db4d1e675c7.setIcon(icon_f61ef7c2535d483fba55da9dfa8a81d6);
+            
+    
+            var popup_c59037877e724e4fb71796ce92068ef9 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_2e56a862d2bc44af9533b68af4049f21 = $(`<div id="html_2e56a862d2bc44af9533b68af4049f21" style="width: 100.0%; height: 100.0%;">매드포갈릭 - 삼성아이파크점</div>`)[0];
+                popup_c59037877e724e4fb71796ce92068ef9.setContent(html_2e56a862d2bc44af9533b68af4049f21);
+            
+
+            marker_905ee47efd4348d59a0e5db4d1e675c7.bindPopup(popup_c59037877e724e4fb71796ce92068ef9)
+            ;
+
+            
+        
+    
+        var marker_477c19284cb240f6885a98da739c3ce5 = L.marker(
+            [37.50321729641404, 127.02775633998912],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_c22c3f93236b4ccc9b47b4a923e134d4);
+        
+    
+
+                var icon_16dd46253c7a45a6b7c5561d894d8be7 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'red',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_477c19284cb240f6885a98da739c3ce5.setIcon(icon_16dd46253c7a45a6b7c5561d894d8be7);
+            
+    
+            var popup_22cdcf0c0df64ea8a1f82494027f1d19 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_ce182efe91bd4984a6ebe1676074a6b5 = $(`<div id="html_ce182efe91bd4984a6ebe1676074a6b5" style="width: 100.0%; height: 100.0%;">브릭오븐</div>`)[0];
+                popup_22cdcf0c0df64ea8a1f82494027f1d19.setContent(html_ce182efe91bd4984a6ebe1676074a6b5);
+            
+
+            marker_477c19284cb240f6885a98da739c3ce5.bindPopup(popup_22cdcf0c0df64ea8a1f82494027f1d19)
+            ;
+
+            
+        
+    
+        var marker_5ce2d766b6ac45f6a3bf71b423d7ba18 = L.marker(
+            [37.49659690191926, 127.02698366567519],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_c22c3f93236b4ccc9b47b4a923e134d4);
+        
+    
+
+                var icon_d5d2387708f94caebfe4f63cfe39b94d = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'red',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_5ce2d766b6ac45f6a3bf71b423d7ba18.setIcon(icon_d5d2387708f94caebfe4f63cfe39b94d);
+            
+    
+            var popup_194a4d4023e549f2a7ae90509929960b = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_6c12584f71254e91bbeb0f75d60dac15 = $(`<div id="html_6c12584f71254e91bbeb0f75d60dac15" style="width: 100.0%; height: 100.0%;">쿠차라 - 강남점</div>`)[0];
+                popup_194a4d4023e549f2a7ae90509929960b.setContent(html_6c12584f71254e91bbeb0f75d60dac15);
+            
+
+            marker_5ce2d766b6ac45f6a3bf71b423d7ba18.bindPopup(popup_194a4d4023e549f2a7ae90509929960b)
+            ;
+
+            
+        
+    
+        var marker_ae859a5df23e43b693d453f992dadda3 = L.marker(
+            [37.50964365978003, 127.06061768105472],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_c22c3f93236b4ccc9b47b4a923e134d4);
+        
+    
+
+                var icon_10b5903b57bb42509bd748c1439e4b6d = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'red',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_ae859a5df23e43b693d453f992dadda3.setIcon(icon_10b5903b57bb42509bd748c1439e4b6d);
+            
+    
+            var popup_9ca9deb9de784c9ebe0117a656a9fda0 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_1a8b407db09a4644a1d7c99afd1088f8 = $(`<div id="html_1a8b407db09a4644a1d7c99afd1088f8" style="width: 100.0%; height: 100.0%;">Grand intercontinetal - 그랜드키친</div>`)[0];
+                popup_9ca9deb9de784c9ebe0117a656a9fda0.setContent(html_1a8b407db09a4644a1d7c99afd1088f8);
+            
+
+            marker_ae859a5df23e43b693d453f992dadda3.bindPopup(popup_9ca9deb9de784c9ebe0117a656a9fda0)
+            ;
+
+            
+        
+    
+        var marker_a16e954b4f0f454b97c76328a62ebac2 = L.marker(
+            [37.512563726639414, 127.0585751747793],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_c22c3f93236b4ccc9b47b4a923e134d4);
+        
+    
+
+                var icon_19009b1a07f24f96a5268d3855205f23 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'red',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_a16e954b4f0f454b97c76328a62ebac2.setIcon(icon_19009b1a07f24f96a5268d3855205f23);
+            
+    
+            var popup_75c7eea4b40f4f95a510dbe9170f5da0 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_291055d073134141b57c89dbbed57457 = $(`<div id="html_291055d073134141b57c89dbbed57457" style="width: 100.0%; height: 100.0%;">샤이바나 - 코엑스점</div>`)[0];
+                popup_75c7eea4b40f4f95a510dbe9170f5da0.setContent(html_291055d073134141b57c89dbbed57457);
+            
+
+            marker_a16e954b4f0f454b97c76328a62ebac2.bindPopup(popup_75c7eea4b40f4f95a510dbe9170f5da0)
+            ;
+
+            
+        
+</script>
