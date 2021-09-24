@@ -39,3 +39,6 @@
 - - -
 ## Folium을 이용한 지도 불러오기, 그리기
 - Marker와 tooltip, popup을 활용한 지도 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0923_folium/210923_folium.ipynb)
+- 다양한 그래프 그리기
+  * [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0923-24_folium/210924_folium(2).ipynb)
+  * [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0923-24_folium/210924_folium(3).ipynb)
