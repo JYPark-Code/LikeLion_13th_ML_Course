@@ -37,5 +37,8 @@
 - Matplotlib, seaborn을 이용한 데이터 분석 및 시각화 연습 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0915_kaggle_titanic/titanic-practice.ipynb)
 - Pandas를 이용한 데이터 분석 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/0916_pandas)
 - - -
-## Folium을 이용한 지도 불러오기, 그리기
+## Folium을 이용한 지도 불러오기, 그래프 그리기
 - Marker와 tooltip, popup을 활용한 지도 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0923_folium/210923_folium.ipynb)
+- 다양한 그래프 그리기
+  * file - 2 [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0923-24_folium/210924_folium(2).ipynb)
+  * file - 3 [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0923-24_folium/210924_folium(3).ipynb)
