@@ -44,4 +44,4 @@
   * file - 3 [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0923-24_folium/210924_folium(3).ipynb)
 - - -
 ## Pandas 라이브러리 추가 학습
-- Pandas 추가학습 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0927_pandas_extra/210927_pandas_extra.ipynb)
+- 코로나 데이터 분석 (Pandas 추가학습) - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0927_pandas_extra/210927_pandas_extra.ipynb)
