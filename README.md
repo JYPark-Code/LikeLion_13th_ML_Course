@@ -34,7 +34,7 @@
 - - -
 ## Kaggle - Matplotlib, seaborn을 이용한 시각화 연습
 ### Titanic Practice 
-- Matplotlib, seaborn을 이용한 데이터 분석 및 시각화 연습 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0915_kaggle_titanic/titanic-practice.ipynb)
+- Matplotlib, seaborn을 이용한 데이터 분석 및 시각화 연습 - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/0915_matplot_seaborn_titanic)
 - Pandas를 이용한 데이터 분석 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/0916_pandas)
 - - -
 ## Folium을 이용한 지도 불러오기, 그래프 그리기
