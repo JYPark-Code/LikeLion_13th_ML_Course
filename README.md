@@ -46,4 +46,5 @@
 ## Pandas 라이브러리 추가 학습
 - 코로나 데이터 분석 (Pandas 추가학습) - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0927_pandas_extra/210927_pandas_extra.ipynb)
 - Kaggle 타이타닉 데이터 분석 및 머신러닝 학습 후 제출하기 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0928_pandas_titanic/210928_titanic_model_upgrade.ipynb)
-- 코로나보드 / 블룸버그 데이터 합쳐서 csv, xlsx - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/0929_covid_df_merge)
+- 코로나보드 / 블룸버그 데이터 합쳐서 csv, xlsx - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0929_covid_df_merge)
+  - 0930 _ 국가/대륙별 정리
