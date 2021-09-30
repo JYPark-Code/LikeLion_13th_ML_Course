@@ -48,3 +48,4 @@
 - Kaggle 타이타닉 데이터 분석 및 머신러닝 학습 후 제출하기 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0928_pandas_titanic/210928_titanic_model_upgrade.ipynb)
 - 코로나보드 / 블룸버그 데이터 합쳐서 csv, xlsx - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0929_covid_df_merge)
   - 0930 _ 국가/대륙별 정리
+- 한글 text data 라이브러리를 이용한 Wordcloud - konlpy 사용하기 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0930_text_data/0930_text_data.ipynb)
