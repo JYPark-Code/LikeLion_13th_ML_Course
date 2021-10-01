@@ -5,8 +5,8 @@ import os
 today = datetime.date.today()
 yesterday = today - datetime.timedelta(days=1)
 
-corona = pd.read_csv(f"./data/{yesterday}_corona.csv")
-vaccine = pd.read_csv(f"./data/{today}_vaccinated.csv")
+corona = pd.read_csv(f"./data/corona/{yesterday}_corona.csv")
+vaccine = pd.read_csv(f"./data/vaccinated/{today}_vaccinated.csv")
 country_code = pd.read_csv("./data/country.csv", encoding="cp949")
 continent_ko = pd.read_csv("./data/continent_ko_only.csv", encoding="cp949")
 
@@ -41,7 +41,7 @@ if int(option) == 1:
     df_corona_all.drop(['country'], axis=1, inplace=True)
     df_corona_all.drop(['etc'], axis=1, inplace=True)
     today = datetime.date.today()
-    path_dir = os.getcwd() + "\\data\\"
+    path_dir = os.getcwd() + "\\data\\merged\\"
     path_file = path_dir + str(today)
     df_corona_mid.to_csv(path_file + "_merged.csv", index=False)
     df_corona_mid.to_excel(path_file + "_merged.xlsx", index=False)
@@ -54,7 +54,7 @@ elif int(option) == 2:
     df_corona_all.drop(['etc'], axis=1, inplace=True)
     df_corona_all.drop(['country_nm'], axis=1, inplace=True)
     today = datetime.date.today()
-    path_dir = os.getcwd() + "\\data\\"
+    path_dir = os.getcwd() + "\\data\\merged\\"
     path_file = path_dir + str(today)
     df_corona_all.to_csv(path_file + "_merged_continent_.csv", index=False)
     df_corona_all.to_excel(path_file + "_merged_continent_.xlsx", index=False)

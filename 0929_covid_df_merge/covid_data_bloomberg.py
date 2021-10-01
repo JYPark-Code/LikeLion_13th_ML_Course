@@ -38,8 +38,8 @@ for i in range(1, 7, 1):
 pd.set_option("display.max_rows", 40)
 
 dat_dict = {'국가': all_data[0],
-            '백신접종수': all_data[1],
-            'Enough_percent_people:': all_data[2],
+            '백신보유량': all_data[1],
+            '인구당_백신보유율': all_data[2],
             '1차접종': all_data[3],
             '2차접종': all_data[4],
             '일별접종수': all_data[5]
@@ -70,7 +70,7 @@ for one in col_all:
     print("\n")
 
 # 쉼표 제거
-dat_df["백신접종수"] = dat_df["백신접종수"].str.replace(",", "")
+dat_df["백신보유량"] = dat_df["백신보유량"].str.replace(",", "")
 dat_df["일별접종수"] = dat_df["일별접종수"].str.replace(",", "")
 
 # null값 체크
@@ -91,7 +91,7 @@ for one in sel_col:
     print()
 
 today = datetime.date.today()
-path_dir = os.getcwd() + "\\data\\"
+path_dir = os.getcwd() + "\\data\\vaccinated\\"
 path_file = path_dir + str(today)
 dat_df.to_csv(path_file + "_vaccinated.csv", index=False)
 dat_df.to_excel(path_file + "_vaccinated.xlsx", index=False)

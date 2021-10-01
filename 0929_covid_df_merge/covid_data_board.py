@@ -102,10 +102,17 @@ dat = dat.drop(['확진자', '사망자', '완치'], axis=1)
 dat['위중증'] = dat['위중증'].str.replace(pat=r'[,()]', repl=r'', regex=True)
 dat['발생률'] = dat['발생률'].str.replace(pat=r'[,]', repl=r'', regex=True)
 dat['인구수'] = dat['인구수'].str.replace(pat=r'[,]', repl=r'', regex=True)
+
+dat['위중증_합계'] = dat['위중증_합계'].str.replace(pat=r'[,]', repl=r'', regex=True)
+dat['위중증1일'] = dat['위중증1일'].str.replace(pat=r'[,()]', repl=r'', regex=True)
+
 dat['확진자_합계'] = dat['확진자_합계'].str.replace(pat=r'[,]', repl=r'', regex=True)
 dat['확진자1일'] = dat['확진자1일'].str.replace(pat=r'[,()]', repl=r'', regex=True)
+
+dat['완치_합계'] = dat['완치1일'].str.replace(pat=r'[,()]', repl=r'', regex=True)
 dat['완치1일'] = dat['완치1일'].str.replace(pat=r'[,()]', repl=r'', regex=True)
-dat['위중증1일'] = dat['위중증1일'].str.replace(pat=r'[,()]', repl=r'', regex=True)
+
+dat['사망자_합계'] = dat['사망자_합계'].str.replace(pat=r'[,()]', repl=r'', regex=True)
 dat['사망자1일'] = dat['사망자1일'].str.replace(pat=r'[,()]', repl=r'', regex=True)
 
 # csv, xlsx 자료 만들기 ----------------------------------
@@ -122,7 +129,7 @@ else:
 print( file_make_time )
 
 print( os.getcwd() )
-path_dir = os.getcwd() + "\\data\\"
+path_dir = os.getcwd() + "\\data\\corona\\"
 path_file = path_dir + str(file_make_time)
 print( path_dir,  path_file, sep="\n" )
 
