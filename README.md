@@ -53,7 +53,7 @@
 # 1차 팀 프로젝트
 - 스켈레톤 불룸버그, 코로나보드 데이터 스크랩핑 후 데이터 병합, 공공데이터 대륙 표기 데이터 병합 후 그래프 그리기. (초기 병합데이터와 대륙별 조사) - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0929_covid_df_merge/first_team_project_sk.ipynb)
 - CSSE 존스홉킨스 대학교 csv - 선정 국가 그래프 확진자 사망자 치명률 추출하기. - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1006_1st_team_pj/USSE_confirmed_death_fatality.ipynb) 
- - 그래프 결과물 - [Folder](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/1006_1st_team_pj/211006_1st_team_pj_image)  
+  - 그래프 결과물 - [Folder](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/1006_1st_team_pj/211006_1st_team_pj_image)  
 
 - - -
 ## konlpy
