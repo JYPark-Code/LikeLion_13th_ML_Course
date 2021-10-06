@@ -52,3 +52,7 @@
 - - -
 # 1차 팀 프로젝트
 - 스켈레톤 (초기 병합데이터와 대륙별 조사) - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0929_covid_df_merge/first_team_project_sk.ipynb)
+
+- - -
+## konlpy
+- 영화 댓글 분석후 시각화 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1005_konply_visualization/1005_textVisualization.ipynb)
