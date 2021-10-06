@@ -58,3 +58,6 @@
 - - -
 ## konlpy
 - 영화 댓글 분석후 시각화 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1005_konply_visualization/1005_textVisualization.ipynb)
+- 코퍼스 / 말뭉치를 이용한 LDA 만들기 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1006_LDA/20211006_LDA.ipynb)
+  - LDA : 잠재 디리클레 할당(Latent Dirichlet Allocation, LDA)
+  - 토픽 모델링은 문서의 집합에서 토픽을 찾아내는 프로세스를 말합니다. 이는 검색 엔진, 고객 민원 시스템 등과 같이 문서의 주제를 알아내는 일이 중요한 곳에서 사용됩니다. 잠재 디리클레 할당(Latent Dirichlet Allocation, LDA)은 토픽 모델링의 대표적인 알고리즘입니다. 줄여서 LDA라고 합니다.
