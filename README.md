@@ -68,3 +68,4 @@
 - KNN 최근접이웃 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/1012_ML_KNN)
 - Linear Regression + Lasso, Ridge 선형회귀, 라쏘, 릿지 회귀 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1013_ML_Linear_Regression/211013_LR.ipynb)
 - 트리, 앙상블 , 랜덤포레스트 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1014_tree_ensemble/211014_%ED%8A%B8%EB%A6%AC_%EC%95%99%EC%83%81%EB%B8%94.ipynb)
+- Daycon (2차 프로젝트) 가스공사 - base 맛보기 -[link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1015_daycon_start/211015_dacon_com.ipynb)
