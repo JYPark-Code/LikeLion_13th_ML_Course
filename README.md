@@ -70,3 +70,4 @@
 - 트리, 앙상블 , 랜덤포레스트 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1014_tree_ensemble/211014_%ED%8A%B8%EB%A6%AC_%EC%95%99%EC%83%81%EB%B8%94.ipynb)
 - Daycon (2차 프로젝트) 가스공사 - base 맛보기 -[link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1015_daycon_start/211015_dacon_com.ipynb)
 - One-hot, label Coding - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1021_onehot/211021_OneHot.ipynb)
+- kaggle bike sharing demand - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1025_kaggle_bike/211025_Kaggle_bike.ipynb)
