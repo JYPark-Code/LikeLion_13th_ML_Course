@@ -71,3 +71,4 @@
 - Daycon (2차 프로젝트) 가스공사 - base 맛보기 -[link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1015_daycon_start/211015_dacon_com.ipynb)
 - One-hot, label Coding - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1021_onehot/211021_OneHot.ipynb)
 - kaggle bike sharing demand - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1025_kaggle_bike/211025_Kaggle_bike.ipynb)
+- Gradient Boosting - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1027_gradient/Gradient_boosting.ipynb)
