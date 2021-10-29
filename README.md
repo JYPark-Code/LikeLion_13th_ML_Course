@@ -73,3 +73,4 @@
 - kaggle bike sharing demand - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1025_kaggle_bike/211025_Kaggle_bike.ipynb)
 - Gradient Boosting - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1027_gradient/Gradient_boosting.ipynb)
 - XGBoost를 사용해 Santander 은행 고객 만족도 분석하기 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1027_satander_cs/Santander_CS.ipynb)
+- 비선형 예측 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1028_forecasting/211028_Forecasting.ipynb)
