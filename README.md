@@ -72,3 +72,4 @@
 - One-hot, label Coding - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1021_onehot/211021_OneHot.ipynb)
 - kaggle bike sharing demand - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1025_kaggle_bike/211025_Kaggle_bike.ipynb)
 - Gradient Boosting - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1027_gradient/Gradient_boosting.ipynb)
+- XGBoost를 사용해 Santander 은행 고객 만족도 분석하기 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1027_satander_cs/Santander_CS.ipynb)
