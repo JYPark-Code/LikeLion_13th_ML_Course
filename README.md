@@ -76,6 +76,7 @@
 - 비선형 예측 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1028_forecasting/211028_Forecasting.ipynb)
 - PCA 비지도 학습 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/1101_PCA) 
 - 딥러닝 기본 / MNIST 자료 활용 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/1103_deep_basics)
+- 텐서플로우 - CNN 학습 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1108_tensorflow_basics/211108_tensorflow.ipynb)
 - - -
 ## 2차 팀프로젝트 (10월 말 ~ 수업 종료까지)
 - 2차 팀프로젝트
