@@ -50,7 +50,7 @@
   - 0930 _ 국가/대륙별 정리
 - 한글 text data 라이브러리를 이용한 Wordcloud - konlpy 사용하기 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0930_text_data/0930_text_data.ipynb)
 - - -
-# 1차 팀 프로젝트
+## 1차 팀 프로젝트
 - 스켈레톤 불룸버그, 코로나보드 데이터 스크랩핑 후 데이터 병합, 공공데이터 대륙 표기 데이터 병합 후 그래프 그리기. (초기 병합데이터와 대륙별 조사) - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/0929_covid_df_merge/first_team_project_sk.ipynb)
 - CSSE 존스홉킨스 대학교 csv - 선정 국가 그래프 확진자 사망자 치명률 추출하기. - [Link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1012_1st_team_review/1006_1st_team_pj/USSE_confirmed_death_fatality.ipynb) 
   - 그래프 결과물 - [Folder](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/1012_1st_team_review/1006_1st_team_pj/211006_1st_team_pj_image)  
@@ -76,6 +76,7 @@
 - 비선형 예측 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1028_forecasting/211028_Forecasting.ipynb)
 - PCA 비지도 학습 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/1101_PCA) 
 - 딥러닝 기본 / MNIST 자료 활용 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/1103_deep_basics)
+- 텐서플로우 - CNN 학습 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1108_tensorflow_basics/211108_tensorflow.ipynb)
 - - -
 ## 2차 팀프로젝트 (10월 말 ~ 수업 종료까지)
 - 2차 팀프로젝트
