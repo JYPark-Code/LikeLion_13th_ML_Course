@@ -79,5 +79,6 @@
 - 딥러닝 기본 / MNIST 자료 활용 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/1103_deep_basics)
 - 텐서플로우 - CNN 학습 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/blob/main/1108_tensorflow_basics/211108_tensorflow.ipynb)
 - 개, 고양이 이미지 분류 - kaggle 데이터 - VGG16모델 활용 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/1111_VGG16_images)
+- imdb, mnist 데이터분석 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/1112_text_data)
 ## 2차 팀프로젝트 (10월 말 ~ 수업 종료까지)
 - 2차 팀프로젝트 - 대회 종료 이후 링크 첨부
