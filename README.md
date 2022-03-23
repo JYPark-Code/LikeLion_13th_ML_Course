@@ -81,4 +81,4 @@
 - 개, 고양이 이미지 분류 - kaggle 데이터 - VGG16모델 활용 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/1111_VGG16_images)
 - imdb, mnist 데이터분석 - [link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/1112_text_data)
 ## 2차 팀프로젝트 (10월 말 ~ 수업 종료까지)
-- 2차 팀프로젝트 - 대회 종료 이후 링크 첨부
+- 2차 팀프로젝트 - 대회 종료 이후 링크 첨부 -[link](https://github.com/JYPark-Code/LikeLion_13th_ML_Course/tree/main/1109_2nd_team_project)
